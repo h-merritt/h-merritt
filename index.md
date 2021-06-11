@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Haily Merritt
 
-You can use the [editor on GitHub](https://github.com/h-merritt/h-merritt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+halamerr @ indiana . edu
 
-### Markdown
+Hi! I am a PhD student in [cognitive science](https://www.brainnetworkslab.com/people) and [complex networks](https://www.brainnetworkslab.com/people) at Indiana University, where I do research on network neuroecology. I use tools from complexity science (like graph theory, dynamical systems theory, and information theory) to learn about how our brains change to adapt to our environments. I'm really interested in how the social environment and perceived social support play a role in this process. I try to infuse perspectives from enactive and embodied cognitive science, process metaphysics, critical theory, and feminist epistemology where I can. I'm the grad student representative for [Women in Network Science](https://www.networkscienceinstitute.org/wins). When I'm not doing science, I love being in nature, reading, and making art. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Current projects
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/h-merritt/h-merritt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- How is variation in brain network features related to variation in perceived social support? How does the social environment influence neuroendophenotypes?
+- How do evolved embodied simulated agents adapt to changes in their environments? What strategies are employed to acquire necessary nutrients in the face of change?
