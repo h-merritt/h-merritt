@@ -3,7 +3,7 @@
     and information theory can be applied to brain networks (both human and simulated) to learn about the 
     brain's role in adaptation to the environment.
 - 💞️ i’m looking to collaborate on anything connecting methods from complexity science to neuroecology.
-- 📫 how to reach me: halamerr@indiana.edu
+- 📫 how to reach me: halamerr@iu.edu
 
 <!---
 h-merritt/h-merritt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
